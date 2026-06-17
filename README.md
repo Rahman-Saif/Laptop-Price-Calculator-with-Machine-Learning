@@ -5,6 +5,10 @@
 ## 📌 Project Overview
 This project is a Machine Learning-based application that predicts laptop prices based on various specifications such as brand, processor, RAM, storage, GPU, display type, and other hardware features.
 
+Project Demo : 
+<img width="1920" height="1587" alt="image" src="https://github.com/user-attachments/assets/8ee75af4-bb48-429a-9db7-61a87ffc47f5" />
+
+
 The goal of this project is to help users estimate laptop prices and understand how different features affect pricing in the market.
 
 ---
